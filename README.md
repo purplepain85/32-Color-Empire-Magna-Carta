@@ -60,3 +60,37 @@ The immutable constitutional framework of the 32-Color Empire
       └── VI. Expansion & Immutable Law
             ├── Art-Bible-Section-XIX.md
             └── Art-Bible-Section-XX.md
+ 
+32-COLOR EMPIRE
+                                   │
+        ┌──────────────────────────┴──────────────────────────┐
+        │                                                     │
+   MAGNA CARTA                                           ART BIBLE
+        │                                                     │
+   (10 Sections)                                         (20 Sections)
+        │                                                     │
+        │                                                     │
+   ┌────┴────┐                                          ┌─────┴─────┐
+   │         │                                          │           │
+Foundations  Governance                           Foundational   Anatomy &
+ (I–III)      (IV–VI)                              Structure     Geometry
+                                                   (I–IV)        (V–VIII)
+   │             │                                      │             │
+   │             │                                      │             │
+   └──────┬──────┘                                      └──────┬──────┘
+          │                                                     │
+          │                                                     │
+     Rights & Law                                         Lighting, Backgrounds,
+      (VII–X)                                             Metadata (IX–XII)
+                                                                  │
+                                                                  │
+                                                          ┌───────┴────────┐
+                                                          │                │
+                                                    Lore & Presentation   Production & QC
+                                                        (XIII–XV)         (XVI–XVIII)
+                                                          │                │
+                                                          └───────┬────────┘
+                                                                  │
+                                                                  │
+                                                        Expansion & Immutable Law
+                                                               (XIX–XX)
