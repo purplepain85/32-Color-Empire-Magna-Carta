@@ -48,3 +48,14 @@ Emotion: Loyalty / Resolve
 Chain: Solana  
 Background: Ancient Oath‑Hall  
 Rarity: 1 of 1 (Genesis)
+
+=== MAROON (SXIX / PXIX) ===
+
+SXIX‑A → Decimal 144 → Hex #909090
+SXIX‑B → Decimal 145 → Hex #919191
+SXIX‑C → Decimal 146 → Hex #929292
+SXIX‑D → Decimal 147 → Hex #939393
+SXIX‑E → Decimal 148 → Hex #949494
+SXIX‑F → Decimal 149 → Hex #959595
+SXIX‑G → Decimal 150 → Hex #969696
+SXIX‑H → Decimal 151 → Hex #979797
