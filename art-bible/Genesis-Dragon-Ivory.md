@@ -49,3 +49,14 @@ Emotion: Serenity / Clarity
 Chain: Solana  
 Background: Cloudpeak Summit  
 Rarity: 1 of 1 (Genesis)
+
+=== IVORY (SVIII / PVIII) ===
+
+SVIII‑A → Decimal 56  → Hex #383838
+SVIII‑B → Decimal 57  → Hex #393939
+SVIII‑C → Decimal 58  → Hex #3A3A3A
+SVIII‑D → Decimal 59  → Hex #3B3B3B
+SVIII‑E → Decimal 60  → Hex #3C3C3C
+SVIII‑F → Decimal 61  → Hex #3D3D3D
+SVIII‑G → Decimal 62  → Hex #3E3E3E
+SVIII‑H → Decimal 63  → Hex #3F3F3F
