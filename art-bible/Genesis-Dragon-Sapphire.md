@@ -49,3 +49,14 @@ Emotion: Insight / Focus
 Chain: Solana  
 Background: Storm-Cut Sky  
 Rarity: 1 of 1 (Genesis)
+
+=== SAPPHIRE (SV / PV) ===
+
+SV‑A → Decimal 32  → Hex #202020
+SV‑B → Decimal 33  → Hex #212121
+SV‑C → Decimal 34  → Hex #222222
+SV‑D → Decimal 35  → Hex #232323
+SV‑E → Decimal 36  → Hex #242424
+SV‑F → Decimal 37  → Hex #252525
+SV‑G → Decimal 38  → Hex #262626
+SV‑H → Decimal 39  → Hex #272727
