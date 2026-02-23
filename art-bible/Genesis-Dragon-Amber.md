@@ -49,3 +49,14 @@ Emotion: Hope / Warmth
 Chain: Solana  
 Background: Golden Plateau  
 Rarity: 1 of 1 (Genesis)
+
+=== AMBER (SVI / PVI) ===
+
+SVI‑A → Decimal 40  → Hex #282828
+SVI‑B → Decimal 41  → Hex #292929
+SVI‑C → Decimal 42  → Hex #2A2A2A
+SVI‑D → Decimal 43  → Hex #2B2B2B
+SVI‑E → Decimal 44  → Hex #2C2C2C
+SVI‑F → Decimal 45  → Hex #2D2D2D
+SVI‑G → Decimal 46  → Hex #2E2E2E
+SVI‑H → Decimal 47  → Hex #2F2F2F
