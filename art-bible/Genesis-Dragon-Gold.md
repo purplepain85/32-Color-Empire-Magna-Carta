@@ -49,3 +49,14 @@ Emotion: Pride / Triumph
 Chain: Solana  
 Background: Sunlit Ruins  
 Rarity: 1 of 1 (Genesis)
+
+=== GOLD (SIX / PIX) ===
+
+SIX‑A → Decimal 64  → Hex #404040
+SIX‑B → Decimal 65  → Hex #414141
+SIX‑C → Decimal 66  → Hex #424242
+SIX‑D → Decimal 67  → Hex #434343
+SIX‑E → Decimal 68  → Hex #444444
+SIX‑F → Decimal 69  → Hex #454545
+SIX‑G → Decimal 70  → Hex #464646
+SIX‑H → Decimal 71  → Hex #474747
