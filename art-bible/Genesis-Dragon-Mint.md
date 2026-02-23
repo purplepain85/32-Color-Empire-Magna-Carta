@@ -48,3 +48,14 @@ Emotion: Freshness / Clarity
 Chain: Solana  
 Background: Dew‑Lit Spring Glade  
 Rarity: 1 of 1 (Genesis)
+
+=== MINT (SXXIV / PXXIV) ===
+
+SXXIV‑A → Decimal 184 → Hex #B8B8B8
+SXXIV‑B → Decimal 185 → Hex #B9B9B9
+SXXIV‑C → Decimal 186 → Hex #BABABA
+SXXIV‑D → Decimal 187 → Hex #BBBBBB
+SXXIV‑E → Decimal 188 → Hex #BCBCBC
+SXXIV‑F → Decimal 189 → Hex #BDBDBD
+SXXIV‑G → Decimal 190 → Hex #BEBEBE
+SXXIV‑H → Decimal 191 → Hex #BFBFBF
