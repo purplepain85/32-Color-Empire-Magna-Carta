@@ -48,3 +48,14 @@ Emotion: Imagination / Wonder
 Chain: Solana  
 Background: Twilight Dreamscape  
 Rarity: 1 of 1 (Genesis)
+
+=== LAVENDER (SXXIII / PXXIII) ===
+
+SXXIII‑A → Decimal 176 → Hex #B0B0B0
+SXXIII‑B → Decimal 177 → Hex #B1B1B1
+SXXIII‑C → Decimal 178 → Hex #B2B2B2
+SXXIII‑D → Decimal 179 → Hex #B3B3B3
+SXXIII‑E → Decimal 180 → Hex #B4B4B4
+SXXIII‑F → Decimal 181 → Hex #B5B5B5
+SXXIII‑G → Decimal 182 → Hex #B6B6B6
+SXXIII‑H → Decimal 183 → Hex #B7B7B7
