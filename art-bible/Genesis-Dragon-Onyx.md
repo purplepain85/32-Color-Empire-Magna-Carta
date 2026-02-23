@@ -49,3 +49,14 @@ Emotion: Patience / Cunning
 Chain: Solana  
 Background: Moonlit Cavern  
 Rarity: 1 of 1 (Genesis)
+
+=== ONYX (SVII / PVII) ===
+
+SVII‑A → Decimal 48  → Hex #303030
+SVII‑B → Decimal 49  → Hex #313131
+SVII‑C → Decimal 50  → Hex #323232
+SVII‑D → Decimal 51  → Hex #333333
+SVII‑E → Decimal 52  → Hex #343434
+SVII‑F → Decimal 53  → Hex #353535
+SVII‑G → Decimal 54  → Hex #363636
+SVII‑H → Decimal 55  → Hex #373737
