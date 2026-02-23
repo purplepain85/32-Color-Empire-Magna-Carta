@@ -1,3 +1,4 @@
+E
 # CRIMSON GENESIS DRAGON
 ### Pose: The First Flame Ascension
 ### Color: Crimson (#DC143C)
@@ -49,3 +50,14 @@ Emotion: Courage / Ignition
 Chain: Solana  
 Background: Volcanic Dawn  
 Rarity: 1 of 1 (Genesis)
+
+=== CRIMSON (SI / PI) ===
+
+SI‑A → Decimal 0   → Hex #000000
+SI‑B → Decimal 1   → Hex #010101
+SI‑C → Decimal 2   → Hex #020202
+SI‑D → Decimal 3   → Hex #030303
+SI‑E → Decimal 4   → Hex #040404
+SI‑F → Decimal 5   → Hex #050505
+SI‑G → Decimal 6   → Hex #060606
+SI‑H → Decimal 7   → Hex #070707
