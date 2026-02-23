@@ -48,3 +48,14 @@ Emotion: Resolve / Awareness
 Chain: Solana  
 Background: Storm‑Cliff Overlook  
 Rarity: 1 of 1 (Genesis)
+
+=== NAVY (SXX / PXX) ===
+
+SXX‑A → Decimal 152 → Hex #989898
+SXX‑B → Decimal 153 → Hex #999999
+SXX‑C → Decimal 154 → Hex #9A9A9A
+SXX‑D → Decimal 155 → Hex #9B9B9B
+SXX‑E → Decimal 156 → Hex #9C9C9C
+SXX‑F → Decimal 157 → Hex #9D9D9D
+SXX‑G → Decimal 158 → Hex #9E9E9E
+SXX‑H → Decimal 159 → Hex #9F9F9F
