@@ -49,3 +49,14 @@ Emotion: Intuition / Calm
 Chain: Solana  
 Background: Moonlit Sky  
 Rarity: 1 of 1 (Genesis)
+
+=== SILVER (SX / PX) ===
+
+SX‑A → Decimal 72  → Hex #484848
+SX‑B → Decimal 73  → Hex #494949
+SX‑C → Decimal 74  → Hex #4A4A4A
+SX‑D → Decimal 75  → Hex #4B4B4B
+SX‑E → Decimal 76  → Hex #4C4C4C
+SX‑F → Decimal 77  → Hex #4D4D4D
+SX‑G → Decimal 78  → Hex #4E4E4E
+SX‑H → Decimal 79  → Hex #4F4F4F
