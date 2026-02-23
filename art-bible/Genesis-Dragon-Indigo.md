@@ -48,3 +48,14 @@ Emotion: Insight / Mystery
 Chain: Solana  
 Background: Twilight Horizon Cliff  
 Rarity: 1 of 1 (Genesis)
+
+=== INDIGO (SXIII / PXIII) ===
+
+SXIII‑A → Decimal 96  → Hex #606060
+SXIII‑B → Decimal 97  → Hex #616161
+SXIII‑C → Decimal 98  → Hex #626262
+SXIII‑D → Decimal 99  → Hex #636363
+SXIII‑E → Decimal 100 → Hex #646464
+SXIII‑F → Decimal 101 → Hex #656565
+SXIII‑G → Decimal 102 → Hex #666666
+SXIII‑H → Decimal 103 → Hex #676767
