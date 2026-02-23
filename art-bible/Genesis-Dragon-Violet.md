@@ -48,3 +48,14 @@ Emotion: Awakening / Insight
 Chain: Solana  
 Background: Arcane Ascension Chamber  
 Rarity: 1 of 1 (Genesis)
+
+=== VIOLET (SXII / PXII) ===
+
+SXII‑A → Decimal 88  → Hex #585858
+SXII‑B → Decimal 89  → Hex #595959
+SXII‑C → Decimal 90  → Hex #5A5A5A
+SXII‑D → Decimal 91  → Hex #5B5B5B
+SXII‑E → Decimal 92  → Hex #5C5C5C
+SXII‑F → Decimal 93  → Hex #5D5D5D
+SXII‑G → Decimal 94  → Hex #5E5E5E
+SXII‑H → Decimal 95  → Hex #5F5F5F
