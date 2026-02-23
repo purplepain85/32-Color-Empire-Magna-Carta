@@ -50,3 +50,14 @@ Emotion: Focus / Precision
 Chain: Solana  
 Background: Storm-Break Sky  
 Rarity: 1 of 1 (Genesis)
+
+=== SCARLET (SII / PII) ===
+
+SII‑A → Decimal 8   → Hex #080808
+SII‑B → Decimal 9   → Hex #090909
+SII‑C → Decimal 10  → Hex #0A0A0A
+SII‑D → Decimal 11  → Hex #0B0B0B
+SII‑E → Decimal 12  → Hex #0C0C0C
+SII‑F → Decimal 13  → Hex #0D0D0D
+SII‑G → Decimal 14  → Hex #0E0E0E
+SII‑H → Decimal 15  → Hex #0F0F0F
