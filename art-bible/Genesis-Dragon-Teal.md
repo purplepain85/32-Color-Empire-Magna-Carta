@@ -48,3 +48,14 @@ Emotion: Balance / Adaptability
 Chain: Solana  
 Background: Shimmering Tidal Coast  
 Rarity: 1 of 1 (Genesis)
+
+=== TEAL (SXXI / PXXI) ===
+
+SXXI‑A → Decimal 160 → Hex #A0A0A0
+SXXI‑B → Decimal 161 → Hex #A1A1A1
+SXXI‑C → Decimal 162 → Hex #A2A2A2
+SXXI‑D → Decimal 163 → Hex #A3A3A3
+SXXI‑E → Decimal 164 → Hex #A4A4A4
+SXXI‑F → Decimal 165 → Hex #A5A5A5
+SXXI‑G → Decimal 166 → Hex #A6A6A6
+SXXI‑H → Decimal 167 → Hex #A7A7A7
