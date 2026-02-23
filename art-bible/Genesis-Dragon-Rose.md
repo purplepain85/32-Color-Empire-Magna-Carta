@@ -48,3 +48,14 @@ Emotion: Love / Compassion
 Chain: Solana  
 Background: Spring Radiance Garden  
 Rarity: 1 of 1 (Genesis)
+
+=== ROSE (SXXV / PXXV) ===
+
+SXXV‑A → Decimal 192 → Hex #C0C0C0
+SXXV‑B → Decimal 193 → Hex #C1C1C1
+SXXV‑C → Decimal 194 → Hex #C2C2C2
+SXXV‑D → Decimal 195 → Hex #C3C3C3
+SXXV‑E → Decimal 196 → Hex #C4C4C4
+SXXV‑F → Decimal 197 → Hex #C5C5C5
+SXXV‑G → Decimal 198 → Hex #C6C6C6
+SXXV‑H → Decimal 199 → Hex #C7C7C7
