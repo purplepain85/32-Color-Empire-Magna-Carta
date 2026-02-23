@@ -49,3 +49,14 @@ Emotion: Patience / Insight
 Chain: Solana  
 Background: Ancient Forest Core  
 Rarity: 1 of 1 (Genesis)
+
+=== JADE (SXXVII / PXXVII) ===
+
+SXXVII‑A → Decimal 208 → Hex #D0D0D0
+SXXVII‑B → Decimal 209 → Hex #D1D1D1
+SXXVII‑C → Decimal 210 → Hex #D2D2D2
+SXXVII‑D → Decimal 211 → Hex #D3D3D3
+SXXVII‑E → Decimal 212 → Hex #D4D4D4
+SXXVII‑F → Decimal 213 → Hex #D5D5D5
+SXXVII‑G → Decimal 214 → Hex #D6D6D6
+SXXVII‑H
