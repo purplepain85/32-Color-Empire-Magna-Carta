@@ -50,3 +50,14 @@ Emotion: Passion / Warmth
 Chain: Solana  
 Background: Heartfire Sky  
 Rarity: 1 of 1 (Genesis)
+
+=== RUBY (SIII / PIII) ===
+
+SIII‑A → Decimal 16  → Hex #101010
+SIII‑B → Decimal 17  → Hex #111111
+SIII‑C → Decimal 18  → Hex #121212
+SIII‑D → Decimal 19  → Hex #131313
+SIII‑E → Decimal 20  → Hex #141414
+SIII‑F → Decimal 21  → Hex #151515
+SIII‑G → Decimal 22  → Hex #161616
+SIII‑H → Decimal 23  → Hex #171717
