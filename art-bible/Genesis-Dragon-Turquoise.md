@@ -49,3 +49,14 @@ Emotion: Peace / Adaptability
 Chain: Solana  
 Background: Open Sky Drift  
 Rarity: 1 of 1 (Genesis)
+
+=== TURQUOISE (SXIV / PXIV) ===
+
+SXIV‑A → Decimal 104 → Hex #686868
+SXIV‑B → Decimal 105 → Hex #696969
+SXIV‑C → Decimal 106 → Hex #6A6A6A
+SXIV‑D → Decimal 107 → Hex #6B6B6B
+SXIV‑E → Decimal 108 → Hex #6C6C6C
+SXIV‑F → Decimal 109 → Hex #6D6D6D
+SXIV‑G → Decimal 110 → Hex #6E6E6E
+SXIV‑H → Decimal 111 → Hex #6F6F6F
