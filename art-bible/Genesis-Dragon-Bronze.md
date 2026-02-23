@@ -49,3 +49,14 @@ Emotion: Determination / Endurance
 Chain: Solana  
 Background: Ancient Forge Hall  
 Rarity: 1 of 1 (Genesis)
+
+=== BRONZE (SXI / PXI) ===
+
+SXI‑A → Decimal 80  → Hex #505050
+SXI‑B → Decimal 81  → Hex #515151
+SXI‑C → Decimal 82  → Hex #525252
+SXI‑D → Decimal 83  → Hex #535353
+SXI‑E → Decimal 84  → Hex #545454
+SXI‑F → Decimal 85  → Hex #555555
+SXI‑G → Decimal 86  → Hex #565656
+SXI‑H → Decimal 87  → Hex #575757
