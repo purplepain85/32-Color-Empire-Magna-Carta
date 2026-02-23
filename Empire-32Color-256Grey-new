@@ -1,0 +1,576 @@
+0   → SI‑A      → #000000
+1   → SI‑B      → #010101
+2   → SI‑C      → #020202
+3   → SI‑D      → #030303
+4   → SI‑E      → #040404
+5   → SI‑F      → #050505
+6   → SI‑G      → #060606
+7   → SI‑H      → #070707
+8   → SII‑A     → #080808
+9   → SII‑B     → #090909
+10  → SII‑C     → #0A0A0A
+11  → SII‑D     → #0B0B0B
+12  → SII‑E     → #0C0C0C
+13  → SII‑F     → #0D0D0D
+14  → SII‑G     → #0E0E0E
+15  → SII‑H     → #0F0F0F
+16  → SIII‑A    → #101010
+17  → SIII‑B    → #111111
+18  → SIII‑C    → #121212
+19  → SIII‑D    → #131313
+20  → SIII‑E    → #141414
+21  → SIII‑F    → #151515
+22  → SIII‑G    → #161616
+23  → SIII‑H    → #171717
+24  → SIV‑A     → #181818
+25  → SIV‑B     → #191919
+26  → SIV‑C     → #1A1A1A
+27  → SIV‑D     → #1B1B1B
+28  → SIV‑E     → #1C1C1C
+29  → SIV‑F     → #1D1D1D
+30  → SIV‑G     → #1E1E1E
+31  → SIV‑H     → #1F1F1F
+32  → SV‑A      → #202020
+33  → SV‑B      → #212121
+34  → SV‑C      → #222222
+35  → SV‑D      → #232323
+36  → SV‑E      → #242424
+37  → SV‑F      → #252525
+38  → SV‑G      → #262626
+39  → SV‑H      → #272727
+40  → SVI‑A     → #282828
+41  → SVI‑B     → #292929
+42  → SVI‑C     → #2A2A2A
+43  → SVI‑D     → #2B2B2B
+44  → SVI‑E     → #2C2C2C
+45  → SVI‑F     → #2D2D2D
+46  → SVI‑G     → #2E2E2E
+47  → SVI‑H     → #2F2F2F
+48  → SVII‑A    → #303030
+49  → SVII‑B    → #313131
+50  → SVII‑C    → #323232
+51  → SVII‑D    → #333333
+52  → SVII‑E    → #343434
+53  → SVII‑F    → #353535
+54  → SVII‑G    → #363636
+55  → SVII‑H    → #373737
+56  → SVIII‑A   → #383838
+57  → SVIII‑B   → #393939
+58  → SVIII‑C   → #3A3A3A
+59  → SVIII‑D   → #3B3B3B
+60  → SVIII‑E   → #3C3C3C
+61  → SVIII‑F   → #3D3D3D
+62  → SVIII‑G   → #3E3E3E
+63  → SVIII‑H   → #3F3F3F
+64  → SIX‑A     → #404040
+65  → SIX‑B     → #414141
+66  → SIX‑C     → #424242
+67  → SIX‑D     → #434343
+68  → SIX‑E     → #444444
+69  → SIX‑F     → #454545
+70  → SIX‑G     → #464646
+71  → SIX‑H     → #474747
+72  → SX‑A      → #484848
+73  → SX‑B      → #494949
+74  → SX‑C      → #4A4A4A
+75  → SX‑D      → #4B4B4B
+76  → SX‑E      → #4C4C4C
+77  → SX‑F      → #4D4D4D
+78  → SX‑G      → #4E4E4E
+79  → SX‑H      → #4F4F4F
+80  → SXI‑A     → #505050
+81  → SXI‑B     → #515151
+82  → SXI‑C     → #525252
+83  → SXI‑D     → #535353
+84  → SXI‑E     → #545454
+85  → SXI‑F     → #555555
+86  → SXI‑G     → #565656
+87  → SXI‑H     → #575757
+88  → SXII‑A    → #585858
+89  → SXII‑B    → #595959
+90  → SXII‑C    → #5A5A5A
+91  → SXII‑D    → #5B5B5B
+92  → SXII‑E    → #5C5C5C
+93  → SXII‑F    → #5D5D5D
+94  → SXII‑G    → #5E5E5E
+95  → SXII‑H    → #5F5F5F
+96  → SXIII‑A   → #606060
+97  → SXIII‑B   → #616161
+98  → SXIII‑C   → #626262
+99  → SXIII‑D   → #636363
+100 → SXIII‑E   → #646464
+101 → SXIII‑F   → #656565
+102 → SXIII‑G   → #666666
+103 → SXIII‑H   → #676767
+104 → SXIV‑A    → #686868
+105 → SXIV‑B    → #696969
+106 → SXIV‑C    → #6A6A6A
+107 → SXIV‑D    → #6B6B6B
+108 → SXIV‑E    → #6C6C6C
+109 → SXIV‑F    → #6D6D6D
+110 → SXIV‑G    → #6E6E6E
+111 → SXIV‑H    → #6F6F6F
+112 → SXV‑A     → #707070
+113 → SXV‑B     → #717171
+114 → SXV‑C     → #727272
+115 → SXV‑D     → #737373
+116 → SXV‑E     → #747474
+117 → SXV‑F     → #757575
+118 → SXV‑G     → #767676
+119 → SXV‑H     → #777777
+120 → SXVI‑A    → #787878
+121 → SXVI‑B    → #797979
+122 → SXVI‑C    → #7A7A7A
+123 → SXVI‑D    → #7B7B7B
+124 → SXVI‑E    → #7C7C7C
+125 → SXVI‑F    → #7D7D7D
+126 → SXVI‑G    → #7E7E7E
+127 → SXVI‑H    → #7F7F7F
+128 → SXVII‑A   → #808080
+129 → SXVII‑B   → #818181
+130 → SXVII‑C   → #828282
+131 → SXVII‑D   → #838383
+132 → SXVII‑E   → #848484
+133 → SXVII‑F   → #858585
+134 → SXVII‑G   → #868686
+135 → SXVII‑H   → #878787
+136 → SXVIII‑A  → #888888
+137 → SXVIII‑B  → #898989
+138 → SXVIII‑C  → #8A8A8A
+139 → SXVIII‑D  → #8B8B8B
+140 → SXVIII‑E  → #8C8C8C
+141 → SXVIII‑F  → #8D8D8D
+142 → SXVIII‑G  → #8E8E8E
+143 → SXVIII‑H  → #8F8F8F
+144 → SXIX‑A    → #909090
+145 → SXIX‑B    → #919191
+146 → SXIX‑C    → #929292
+147 → SXIX‑D    → #939393
+148 → SXIX‑E    → #949494
+149 → SXIX‑F    → #959595
+150 → SXIX‑G    → #969696
+151 → SXIX‑H    → #979797
+152 → SXX‑A     → #989898
+153 → SXX‑B     → #999999
+154 → SXX‑C     → #9A9A9A
+155 → SXX‑D     → #9B9B9B
+156 → SXX‑E     → #9C9C9C
+157 → SXX‑F     → #9D9D9D
+158 → SXX‑G     → #9E9E9E
+159 → SXX‑H     → #9F9F9F
+160 → SXXI‑A    → #A0A0A0
+161 → SXXI‑B    → #A1A1A1
+162 → SXXI‑C    → #A2A2A2
+163 → SXXI‑D    → #A3A3A3
+164 → SXXI‑E    → #A4A4A4
+165 → SXXI‑F    → #A5A5A5
+166 → SXXI‑G    → #A6A6A6
+167 → SXXI‑H    → #A7A7A7
+168 → SXXII‑A   → #A8A8A8
+169 → SXXII‑B   → #A9A9A9
+170 → SXXII‑C   → #AAAAAA
+171 → SXXII‑D   → #ABABAB
+172 → SXXII‑E   → #ACACAC
+173 → SXXII‑F   → #ADADAD
+174 → SXXII‑G   → #AEAEAE
+175 → SXXII‑H   → #AFAFAF
+176 → SXXIII‑A  → #B0B0B0
+177 → SXXIII‑B  → #B1B1B1
+178 → SXXIII‑C  → #B2B2B2
+179 → SXXIII‑D  → #B3B3B3
+180 → SXXIII‑E  → #B4B4B4
+181 → SXXIII‑F  → #B5B5B5
+182 → SXXIII‑G  → #B6B6B6
+183 → SXXIII‑H  → #B7B7B7
+184 → SXXIV‑A   → #B8B8B8
+185 → SXXIV‑B   → #B9B9B9
+186 → SXXIV‑C   → #BABABA
+187 → SXXIV‑D   → #BBBBBB
+188 → SXXIV‑E   → #BCBCBC
+189 → SXXIV‑F   → #BDBDBD
+190 → SXXIV‑G   → #BEBEBE
+191 → SXXIV‑H   → #BFBFBF
+192 → SXXV‑A    → #C0C0C0
+193 → SXXV‑B    → #C1C1C1
+194 → SXXV‑C    → #C2C2C2
+195 → SXXV‑D    → #C3C3C3
+196 → SXXV‑E    → #C4C4C4
+197 → SXXV‑F    → #C5C5C5
+198 → SXXV‑G    → #C6C6C6
+199 → SXXV‑H    → #C7C7C7
+200 → SXXVI‑A   → #C8C8C8
+201 → SXXVI‑B   → #C9C9C9
+202 → SXXVI‑C   → #CACACA
+203 → SXXVI‑D   → #CBCBCB
+204 → SXXVI‑E   → #CCCCCC
+205 → SXXVI‑F   → #CDCDCD
+206 → SXXVI‑G   → #CECECE
+207 → SXXVI‑H   → #CFCFCF
+208 → SXXVII‑A  → #D0D0D0
+209 → SXXVII‑B  → #D1D1D1
+210 → SXXVII‑C  → #D2D2D2
+211 → SXXVII‑D  → #D3D3D3
+212 → SXXVII‑E  → #D4D4D4
+213 → SXXVII‑F  → #D5D5D5
+214 → SXXVII‑G  → #D6D6D6
+215 → SXXVII‑H  → #D7D7D7
+216 → SXXVIII‑A → #D8D8D8
+217 → SXXVIII‑B → #D9D9D9
+218 → SXXVIII‑C → #DADADA
+219 → SXXVIII‑D → #DBDBDB
+220 → SXXVIII‑E → #DCDCDC
+221 → SXXVIII‑F → #DDDDDD
+222 → SXXVIII‑G → #DEDEDE
+223 → SXXVIII‑H → #DFDFDF
+224 → SXXIX‑A   → #E0E0E0
+225 → SXXIX‑B   → #E1E1E1
+226 → SXXIX‑C   → #E2E2E2
+227 → SXXIX‑D   → #E3E3E3
+228 → SXXIX‑E   → #E4E4E4
+229 → SXXIX‑F   → #E5E5E5
+230 → SXXIX‑G   → #E6E6E6
+231 → SXXIX‑H   → #E7E7E7
+232 → SXXX‑A    → #E8E8E8
+233 → SXXX‑B    → #E9E9E9
+234 → SXXX‑C    → #EAEAEA
+235 → SXXX‑D    → #EBEBEB
+236 → SXXX‑E    → #ECECEC
+237 → SXXX‑F    → #EDEDED
+238 → SXXX‑G    → #EEEEEE
+239 → SXXX‑H    → #EFEFEF
+240 → SXXXI‑A   → #F0F0F0
+241 → SXXXI‑B   → #F1F1F1
+242 → SXXXI‑C   → #F2F2F2
+243 → SXXXI‑D   → #F3F3F3
+244 → SXXXI‑E   → #F4F4F4
+245 → SXXXI‑F   → #F5F5F5
+246 → SXXXI‑G   → #F6F6F6
+247 → SXXXI‑H   → #F7F7F7
+248 → SXXXII‑A  → #F8F8F8
+249 → SXXXII‑B  → #F9F9F9
+250 → SXXXII‑C  → #FAFAFA
+251 → SXXXII‑D  → #FBFBFB
+252 → SXXXII‑E  → #FCFCFC
+253 → SXXXII‑F  → #FDFDFD
+254 → SXXXII‑G  → #FEFEFE
+255 → SXXXII‑H  → #FFFFFF
+
+CRIMSON (SI / PI)
+SI‑A → Decimal 0   → Hex #000000
+SI‑B → Decimal 1   → Hex #010101
+SI‑C → Decimal 2   → Hex #020202
+SI‑D → Decimal 3   → Hex #030303
+SI‑E → Decimal 4   → Hex #040404
+SI‑F → Decimal 5   → Hex #050505
+SI‑G → Decimal 6   → Hex #060606
+SI‑H → Decimal 7   → Hex #070707
+
+SCARLET (SII / PII)
+SII‑A → Decimal 8   → Hex #080808
+SII‑B → Decimal 9   → Hex #090909
+SII‑C → Decimal 10  → Hex #0A0A0A
+SII‑D → Decimal 11  → Hex #0B0B0B
+SII‑E → Decimal 12  → Hex #0C0C0C
+SII‑F → Decimal 13  → Hex #0D0D0D
+SII‑G → Decimal 14  → Hex #0E0E0E
+SII‑H → Decimal 15  → Hex #0F0F0F
+
+RUBY (SIII / PIII)
+SIII‑A → Decimal 16  → Hex #101010
+SIII‑B → Decimal 17  → Hex #111111
+SIII‑C → Decimal 18  → Hex #121212
+SIII‑D → Decimal 19  → Hex #131313
+SIII‑E → Decimal 20  → Hex #141414
+SIII‑F → Decimal 21  → Hex #151515
+SIII‑G → Decimal 22  → Hex #161616
+SIII‑H → Decimal 23  → Hex #171717
+
+EMERALD (SIV / PIV)
+SIV‑A → Decimal 24  → Hex #181818
+SIV‑B → Decimal 25  → Hex #191919
+SIV‑C → Decimal 26  → Hex #1A1A1A
+SIV‑D → Decimal 27  → Hex #1B1B1B
+SIV‑E → Decimal 28  → Hex #1C1C1C
+SIV‑F → Decimal 29  → Hex #1D1D1D
+SIV‑G → Decimal 30  → Hex #1E1E1E
+SIV‑H → Decimal 31  → Hex #1F1F1F
+
+SAPPHIRE (SV / PV)
+SV‑A → Decimal 32  → Hex #202020
+SV‑B → Decimal 33  → Hex #212121
+SV‑C → Decimal 34  → Hex #222222
+SV‑D → Decimal 35  → Hex #232323
+SV‑E → Decimal 36  → Hex #242424
+SV‑F → Decimal 37  → Hex #252525
+SV‑G → Decimal 38  → Hex #262626
+SV‑H → Decimal 39  → Hex #272727
+
+AMBER (SVI / PVI)
+SVI‑A → Decimal 40  → Hex #282828
+SVI‑B → Decimal 41  → Hex #292929
+SVI‑C → Decimal 42  → Hex #2A2A2A
+SVI‑D → Decimal 43  → Hex #2B2B2B
+SVI‑E → Decimal 44  → Hex #2C2C2C
+SVI‑F → Decimal 45  → Hex #2D2D2D
+SVI‑G → Decimal 46  → Hex #2E2E2E
+SVI‑H → Decimal 47  → Hex #2F2F2F
+
+ONYX (SVII / PVII)
+SVII‑A → Decimal 48  → Hex #303030
+SVII‑B → Decimal 49  → Hex #313131
+SVII‑C → Decimal 50  → Hex #323232
+SVII‑D → Decimal 51  → Hex #333333
+SVII‑E → Decimal 52  → Hex #343434
+SVII‑F → Decimal 53  → Hex #353535
+SVII‑G → Decimal 54  → Hex #363636
+SVII‑H → Decimal 55  → Hex #373737
+
+IVORY (SVIII / PVIII)
+SVIII‑A → Decimal 56  → Hex #383838
+SVIII‑B → Decimal 57  → Hex #393939
+SVIII‑C → Decimal 58  → Hex #3A3A3A
+SVIII‑D → Decimal 59  → Hex #3B3B3B
+SVIII‑E → Decimal 60  → Hex #3C3C3C
+SVIII‑F → Decimal 61  → Hex #3D3D3D
+SVIII‑G → Decimal 62  → Hex #3E3E3E
+SVIII‑H → Decimal 63  → Hex #3F3F3F
+
+GOLD (SIX / PIX)
+SIX‑A → Decimal 64  → Hex #404040
+SIX‑B → Decimal 65  → Hex #414141
+SIX‑C → Decimal 66  → Hex #424242
+SIX‑D → Decimal 67  → Hex #434343
+SIX‑E → Decimal 68  → Hex #444444
+SIX‑F → Decimal 69  → Hex #454545
+SIX‑G → Decimal 70  → Hex #464646
+SIX‑H → Decimal 71  → Hex #474747
+
+SILVER (SX / PX)
+SX‑A → Decimal 72  → Hex #484848
+SX‑B → Decimal 73  → Hex #494949
+SX‑C → Decimal 74  → Hex #4A4A4A
+SX‑D → Decimal 75  → Hex #4B4B4B
+SX‑E → Decimal 76  → Hex #4C4C4C
+SX‑F → Decimal 77  → Hex #4D4D4D
+SX‑G → Decimal 78  → Hex #4E4E4E
+SX‑H → Decimal 79  → Hex #4F4F4F
+
+BRONZE (SXI / PXI)
+SXI‑A → Decimal 80  → Hex #505050
+SXI‑B → Decimal 81  → Hex #515151
+SXI‑C → Decimal 82  → Hex #525252
+SXI‑D → Decimal 83  → Hex #535353
+SXI‑E → Decimal 84  → Hex #545454
+SXI‑F → Decimal 85  → Hex #555555
+SXI‑G → Decimal 86  → Hex #565656
+SXI‑H → Decimal 87  → Hex #575757
+
+VIOLET (SXII / PXII)
+SXII‑A → Decimal 88  → Hex #585858
+SXII‑B → Decimal 89  → Hex #595959
+SXII‑C → Decimal 90  → Hex #5A5A5A
+SXII‑D → Decimal 91  → Hex #5B5B5B
+SXII‑E → Decimal 92  → Hex #5C5C5C
+SXII‑F → Decimal 93  → Hex #5D5D5D
+SXII‑G → Decimal 94  → Hex #5E5E5E
+SXII‑H → Decimal 95  → Hex #5F5F5F
+
+INDIGO (SXIII / PXIII)
+SXIII‑A → Decimal 96  → Hex #606060
+SXIII‑B → Decimal 97  → Hex #616161
+SXIII‑C → Decimal 98  → Hex #626262
+SXIII‑D → Decimal 99  → Hex #636363
+SXIII‑E → Decimal 100 → Hex #646464
+SXIII‑F → Decimal 101 → Hex #656565
+SXIII‑G → Decimal 102 → Hex #666666
+SXIII‑H → Decimal 103 → Hex #676767
+
+TURQUOISE (SXIV / PXIV)
+SXIV‑A → Decimal 104 → Hex #686868
+SXIV‑B → Decimal 105 → Hex #696969
+SXIV‑C → Decimal 106 → Hex #6A6A6A
+SXIV‑D → Decimal 107 → Hex #6B6B6B
+SXIV‑E → Decimal 108 → Hex #6C6C6C
+SXIV‑F → Decimal 109 → Hex #6D6D6D
+SXIV‑G → Decimal 110 → Hex #6E6E6E
+SXIV‑H → Decimal 111 → Hex #6F6F6F
+
+MAGENTA (SXV / PXV)
+SXV‑A → Decimal 112 → Hex #707070
+SXV‑B → Decimal 113 → Hex #717171
+SXV‑C → Decimal 114 → Hex #727272
+SXV‑D → Decimal 115 → Hex #737373
+SXV‑E → Decimal 116 → Hex #747474
+SXV‑F → Decimal 117 → Hex #757575
+SXV‑G → Decimal 118 → Hex #767676
+SXV‑H → Decimal 119 → Hex #777777
+
+CYAN (SXVI / PXVI)
+SXVI‑A → Decimal 120 → Hex #787878
+SXVI‑B → Decimal 121 → Hex #797979
+SXVI‑C → Decimal 122 → Hex #7A7A7A
+SXVI‑D → Decimal 123 → Hex #7B7B7B
+SXVI‑E → Decimal 124 → Hex #7C7C7C
+SXVI‑F → Decimal 125 → Hex #7D7D7D
+SXVI‑G → Decimal 126 → Hex #7E7E7E
+SXVI‑H → Decimal 127 → Hex #7F7F7F
+
+LIME (SXVII / PXXVII)
+SXVII‑A → Decimal 128 → Hex #808080
+SXVII‑B → Decimal 129 → Hex #818181
+SXVII‑C → Decimal 130 → Hex #828282
+SXVII‑D → Decimal 131 → Hex #838383
+SXVII‑E → Decimal 132 → Hex #848484
+SXVII‑F → Decimal 133 → Hex #858585
+SXVII‑G → Decimal 134 → Hex #868686
+SXVII‑H → Decimal 135 → Hex #878787
+
+OLIVE (SXVIII / PXVIII)
+SXVIII‑A → Decimal 136 → Hex #888888
+SXVIII‑B → Decimal 137 → Hex #898989
+SXVIII‑C → Decimal 138 → Hex #8A8A8A
+SXVIII‑D → Decimal 139 → Hex #8B8B8B
+SXVIII‑E → Decimal 140 → Hex #8C8C8C
+SXVIII‑F → Decimal 141 → Hex #8D8D8D
+SXVIII‑G → Decimal 142 → Hex #8E8E8E
+SXVIII‑H → Decimal 143 → Hex #8F8F8F
+
+MAROON (SXIX / PXIX)
+SXIX‑A → Decimal 144 → Hex #909090
+SXIX‑B → Decimal 145 → Hex #919191
+SXIX‑C → Decimal 146 → Hex #929292
+SXIX‑D → Decimal 147 → Hex #939393
+SXIX‑E → Decimal 148 → Hex #949494
+SXIX‑F → Decimal 149 → Hex #959595
+SXIX‑G → Decimal 150 → Hex #969696
+SXIX‑H → Decimal 151 → Hex #979797
+
+NAVY (SXX / PXX)
+SXX‑A → Decimal 152 → Hex #989898
+SXX‑B → Decimal 153 → Hex #999999
+SXX‑C → Decimal 154 → Hex #9A9A9A
+SXX‑D → Decimal 155 → Hex #9B9B9B
+SXX‑E → Decimal 156 → Hex #9C9C9C
+SXX‑F → Decimal 157 → Hex #9D9D9D
+SXX‑G → Decimal 158 → Hex #9E9E9E
+SXX‑H → Decimal 159 → Hex #9F9F9F
+
+TEAL (SXXI / PXXI)
+SXXI‑A → Decimal 160 → Hex #A0A0A0
+SXXI‑B → Decimal 161 → Hex #A1A1A1
+SXXI‑C → Decimal 162 → Hex #A2A2A2
+SXXI‑D → Decimal 163 → Hex #A3A3A3
+SXXI‑E → Decimal 164 → Hex #A4A4A4
+SXXI‑F → Decimal 165 → Hex #A5A5A5
+SXXI‑G → Decimal 166 → Hex #A6A6A6
+SXXI‑H → Decimal 167 → Hex #A7A7A7
+
+CORAL (SXXII / PXXII)
+SXXII‑A → Decimal 168 → Hex #A8A8A8
+SXXII‑B → Decimal 169 → Hex #A9A9A9
+SXXII‑C → Decimal 170 → Hex #AAAAAA
+SXXII‑D → Decimal 171 → Hex #ABABAB
+SXXII‑E → Decimal 172 → Hex #ACACAC
+SXXII‑F → Decimal 173 → Hex #ADADAD
+SXXII‑G → Decimal 174 → Hex #AEAEAE
+SXXII‑H → Decimal 175 → Hex #AFAFAF
+
+LAVENDER (SXXIII / PXXIII)
+SXXIII‑A → Decimal 176 → Hex #B0B0B0
+SXXIII‑B → Decimal 177 → Hex #B1B1B1
+SXXIII‑C → Decimal 178 → Hex #B2B2B2
+SXXIII‑D → Decimal 179 → Hex #B3B3B3
+SXXIII‑E → Decimal 180 → Hex #B4B4B4
+SXXIII‑F → Decimal 181 → Hex #B5B5B5
+SXXIII‑G → Decimal 182 → Hex #B6B6B6
+SXXIII‑H → Decimal 183 → Hex #B7B7B7
+
+MINT (SXXIV / PXXIV)
+SXXIV‑A → Decimal 184 → Hex #B8B8B8
+SXXIV‑B → Decimal 185 → Hex #B9B9B9
+SXXIV‑C → Decimal 186 → Hex #BABABA
+SXXIV‑D → Decimal 187 → Hex #BBBBBB
+SXXIV‑E → Decimal 188 → Hex #BCBCBC
+SXXIV‑F → Decimal 189 → Hex #BDBDBD
+SXXIV‑G → Decimal 190 → Hex #BEBEBE
+SXXIV‑H → Decimal 191 → Hex #BFBFBF
+
+ROSE (SXXV / PXXV)
+SXXV‑A → Decimal 192 → Hex #C0C0C0
+SXXV‑B → Decimal 193 → Hex #C1C1C1
+SXXV‑C → Decimal 194 → Hex #C2C2C2
+SXXV‑D → Decimal 195 → Hex #C3C3C3
+SXXV‑E → Decimal 196 → Hex #C4C4C4
+SXXV‑F → Decimal 197 → Hex #C5C5C5
+SXXV‑G → Decimal 198 → Hex #C6C6C6
+SXXV‑H → Decimal 199 → Hex #C7C7C7
+
+AZURE (SXXVI / PXXVI)
+SXXVI‑A → Decimal 200 → Hex #C8C8C8
+SXXVI‑B → Decimal 201 → Hex #C9C9C9
+SXXVI‑C → Decimal 202 → Hex #CACACA
+SXXVI‑D → Decimal 203 → Hex #CBCBCB
+SXXVI‑E → Decimal 204 → Hex #CCCCCC
+SXXVI‑F → Decimal 205 → Hex #CDCDCD
+SXXVI‑G → Decimal 206 → Hex #CECECE
+SXXVI‑H → Decimal 207 → Hex #CFCFCF
+
+JADE (SXXVII / PXXVII)
+SXXVII‑A → Decimal 208 → Hex #D0D0D0
+SXXVII‑B → Decimal 209 → Hex #D1D1D1
+SXXVII‑C → Decimal 210 → Hex #D2D2D2
+SXXVII‑D → Decimal 211 → Hex #D3D3D3
+SXXVII‑E → Decimal 212 → Hex #D4D4D4
+SXXVII‑F → Decimal 213 → Hex #D5D5D5
+SXXVII‑G → Decimal 214 → Hex #D6D6D6
+SXXVII‑H → Decimal 215 → Hex #D7D7D7
+
+TOPAZ (SXXVIII / PXXVIII)
+SXXVIII‑A → Decimal 216 → Hex #D8D8D8
+SXXVIII‑B → Decimal 217 → Hex #D9D9D9
+SXXVIII‑C → Decimal 218 → Hex #DADADA
+SXXVIII‑D → Decimal 219 → Hex #DBDBDB
+SXXVIII‑E → Decimal 220 → Hex #DCDCDC
+SXXVIII‑F → Decimal 221 → Hex #DDDDDD
+SXXVIII‑G → Decimal 222 → Hex #DEDEDE
+SXXVIII‑H → Decimal 223 → Hex #DFDFDF
+
+OBSIDIAN (SXXIX / PXXIX)
+SXXIX‑A → Decimal 224 → Hex #E0E0E0
+SXXIX‑B → Decimal 225 → Hex #E1E1E1
+SXXIX‑C → Decimal 226 → Hex #E2E2E2
+SXXIX‑D → Decimal 227 → Hex #E3E3E3
+SXXIX‑E → Decimal 228 → Hex #E4E4E4
+SXXIX‑F → Decimal 229 → Hex #E5E5E5
+SXXIX‑G → Decimal 230 → Hex #E6E6E6
+SXXIX‑H → Decimal 231 → Hex #E7E7E7
+
+PEARL (SXXX / PXXX)
+SXXX‑A → Decimal 232 → Hex #E8E8E8
+SXXX‑B → Decimal 233 → Hex #E9E9E9
+SXXX‑C → Decimal 234 → Hex #EAEAEA
+SXXX‑D → Decimal 235 → Hex #EBEBEB
+SXXX‑E → Decimal 236 → Hex #ECECEC
+SXXX‑F → Decimal 237 → Hex #EDEDED
+SXXX‑G → Decimal 238 → Hex #EEEEEE
+SXXX‑H → Decimal 239 → Hex #EFEFEF
+
+QUARTZ (SXXXI / PXXXI)
+SXXXI‑A → Decimal 240 → Hex #F0F0F0
+SXXXI‑B → Decimal 241 → Hex #F1F1F1
+SXXXI‑C → Decimal 242 → Hex #F2F2F2
+SXXXI‑D → Decimal 243 → Hex #F3F3F3
+SXXXI‑E → Decimal 244 → Hex #F4F4F4
+SXXXI‑F → Decimal 245 → Hex #F5F5F5
+SXXXI‑G → Decimal 246 → Hex #F6F6F6
+SXXXI‑H → Decimal 247 → Hex #F7F7F7
+
+GARNET (SXXXII / PXXXII)
+SXXXII‑A → Decimal 248 → Hex #F8F8F8
+SXXXII‑B → Decimal 249 → Hex #F9F9F9
+SXXXII‑C → Decimal 250 → Hex #FAFAFA
+SXXXII‑D → Decimal 251 → Hex #FBFBFB
+SXXXII‑E → Decimal 252 → Hex #FCFCFC
+SXXXII‑F → Decimal 253 → Hex #FDFDFD
+SXXXII‑G → Decimal 254 → Hex #FEFEFE
+SXXXII‑H → Decimal 255 → Hex #FFFFFF
