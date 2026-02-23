@@ -48,3 +48,14 @@ Emotion: Patience / Resilience
 Chain: Solana  
 Background: Ancient Forest Clearing  
 Rarity: 1 of 1 (Genesis)
+
+=== OLIVE (SXVIII / PXVIII) ===
+
+SXVIII‑A → Decimal 136 → Hex #888888
+SXVIII‑B → Decimal 137 → Hex #898989
+SXVIII‑C → Decimal 138 → Hex #8A8A8A
+SXVIII‑D → Decimal 139 → Hex #8B8B8B
+SXVIII‑E → Decimal 140 → Hex #8C8C8C
+SXVIII‑F → Decimal 141 → Hex #8D8D8D
+SXVIII‑G → Decimal 142 → Hex #8E8E8E
+SXVIII‑H → Decimal 143 → Hex #8F8F8F
