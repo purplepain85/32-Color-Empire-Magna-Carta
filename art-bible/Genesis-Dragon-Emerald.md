@@ -49,3 +49,14 @@ Emotion: Stability / Harmony
 Chain: Solana  
 Background: Forest Overlook  
 Rarity: 1 of 1 (Genesis)
+
+=== EMERALD (SIV / PIV) ===
+
+SIV‑A → Decimal 24  → Hex #181818
+SIV‑B → Decimal 25  → Hex #191919
+SIV‑C → Decimal 26  → Hex #1A1A1A
+SIV‑D → Decimal 27  → Hex #1B1B1B
+SIV‑E → Decimal 28  → Hex #1C1C1C
+SIV‑F → Decimal 29  → Hex #1D1D1D
+SIV‑G → Decimal 30  → Hex #1E1E1E
+SIV‑H → Decimal 31  → Hex #1F1F1F
